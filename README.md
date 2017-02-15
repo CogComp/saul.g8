@@ -2,7 +2,8 @@ A [Giter8][g8] template for [Saul][saul] applications!
 
 The template contains a sample classifier for a dummy task. It also sets up required dependencies required for Saul.
 
-Usage:
+
+### Usage 
 
 If you have Giter8 setup:
 ```
