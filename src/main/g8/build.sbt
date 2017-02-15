@@ -1,7 +1,7 @@
 version := "$projectVersion$"
 
 resolvers ++= Seq(
-  "CogComp Software" at "$cogcompMavenRepo$"
+  "CogComp Software" at "http://cogcomp.cs.illinois.edu/m2repo/"
 )
 
 libraryDependencies += "edu.illinois.cs.cogcomp" %% "saul" % "$saulVersion$"
